@@ -10,3 +10,4 @@ systemctl start thermald.service
 systemctl stop lenovo_fix.service
 systemctl disable lenovo_fix.service
 
+echo "Powersaving applied" > ~/powersave-status.txt
