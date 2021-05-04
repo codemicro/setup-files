@@ -17,8 +17,8 @@ Markdown docs and shell scripts for automating installation of things and docume
 
 * [`capslock.md`](capslock.md) for the replacement of the Caps Lock key with Escape
 * [`flameshot.sh`](flameshot.sh) for installing Flameshot screenshot tool
-* [`rootcert.md`](rootcert.md) for installing other root certificates
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
+* [`rootcert.md`](rootcert.md) for installing other root certificates
 
 ## Performance
 
@@ -33,7 +33,8 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`gitkraken.md`](gitkraken.md)
 * [`go.md`](go.md) for installing the Go programming language
 * [`jetbrainsToolbox.md`](jetbrainsToolbox.md) for installing the JetBrains Toolbox tool
-* [`nim/md`](nim.md) for installing the Nim programming language
+* [`nim.md`](nim.md) for installing the Nim programming language
+* [`node.md`](node.md) for installing Node.JS
 * [`ohmyposh.sh`](ohmyposh.sh) for installing the Oh My Posh command line prompt
 * [`vscode.md`](vscode.md)
 
