@@ -18,6 +18,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`capslock.md`](capslock.md) for the replacement of the Caps Lock key with Escape
 * [`flameshot.sh`](flameshot.sh) for installing Flameshot screenshot tool
 * [`rootcert.md`](rootcert.md) for installing other root certificates
+* [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
 
 ## Performance
 
