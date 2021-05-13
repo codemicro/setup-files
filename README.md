@@ -32,6 +32,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`git.sh`](git.sh)
 * [`gitkraken.md`](gitkraken.md)
 * [`go.md`](go.md) for installing the Go programming language
+* [`gophernotes.sh`](gophernotes.sh) for the the GopherNotes Juypter kernel
 * [`jetbrainsToolbox.md`](jetbrainsToolbox.md) for installing the JetBrains Toolbox tool
 * [`nim.md`](nim.md) for installing the Nim programming language
 * [`node.md`](node.md) for installing Node.JS
