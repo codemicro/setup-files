@@ -11,6 +11,6 @@ unzip ~/.poshthemes/themes.zip -d ~/.poshthemes
 chmod u+rw ~/.poshthemes/*.json
 rm ~/.poshthemes/themes.zip
 
-# Add the following to your Bash profile
-# eval "$(oh-my-posh --init --shell bash --config ~/mytheme.omp.json)"
+# Add init to your Bash profile
+echo 'eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/agnoster.omp.json)"' >> ~/.bashrc
 
