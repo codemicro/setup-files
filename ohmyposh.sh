@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-# 2021-05-02
+# 2021-05-27 - for use on Bash
 
 sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 chmod +x /usr/local/bin/oh-my-posh
