@@ -31,7 +31,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 
 * [`act.sh`](act.sh) for the Act tool to run GitHub Actions workflows locally
 * [`clibraries.md`](clibraries.md) for errors like `fatal error: stdlib.h: No such file or directory`
-* [`docker.sh`](docker.sh) for installation of Docker on Linux Mint 20.01 or Ubuntu Ubuntu 20.04 LTS
+* [`docker.sh`](docker.sh) for installation of Docker on Linux Mint 20.01 or Ubuntu 20.04 LTS
 * [`git.sh`](git.sh)
 * [`gitkraken.md`](gitkraken.md)
 * [`go.md`](go.md) for installing the Go programming language
