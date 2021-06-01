@@ -34,6 +34,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`docker.sh`](docker.sh) for installation of Docker on Linux Mint 20.01 or Ubuntu 20.04 LTS
 * [`git.sh`](git.sh)
 * [`gitkraken.md`](gitkraken.md)
+* [`gitui.md`](gitui.md) for installing the [GitUI](https://github.com/extrawurst/gitui) tool
 * [`go.md`](go.md) for installing the Go programming language
 * [`gophernotes.sh`](gophernotes.sh) for the the GopherNotes Juypter kernel
 * [`jetbrainsToolbox.md`](jetbrainsToolbox.md) for installing the JetBrains Toolbox tool
