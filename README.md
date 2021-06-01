@@ -41,6 +41,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`nim.md`](nim.md) for installing the Nim programming language
 * [`node.md`](node.md) for installing Node.JS
 * [`ohmyposh.sh`](ohmyposh.sh) for installing the Oh My Posh command line prompt
+* [`poetry.sh`](poetry.sh) for installing Python Poetry
 * [`sourcetrail.md`](sourcetrail.md) for installing the SourceTrail codebase inspector
 * [`vscode.md`](vscode.md)
 
