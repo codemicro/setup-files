@@ -17,6 +17,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 
 * [`adb-fastboot.md`](adb-fastboot.md) for the installation of the ADB and Fastboot tools for working with Android devices and flashing ROMs (such as LineageOS)
 * [`capslock.md`](capslock.md) for the replacement of the Caps Lock key with Escape
+* [`exa.md`](exa.md) for installing [`exa`](https://github.com/ogham/exa)
 * [`flameshot.md`](flameshot.md) for installing Flameshot screenshot tool
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
 * [`rootcert.md`](rootcert.md) for installing other root certificates
