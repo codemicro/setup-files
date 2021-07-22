@@ -20,6 +20,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`exa.md`](exa.md) for installing [`exa`](https://github.com/ogham/exa)
 * [`flameshot.md`](flameshot.md) for installing Flameshot screenshot tool
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
+* [`gpaste.md`](gpaste.md) for installing the GPaste clipboard manager
 * [`rootcert.md`](rootcert.md) for installing other root certificates
 
 ## Performance
