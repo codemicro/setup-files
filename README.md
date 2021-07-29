@@ -35,6 +35,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`clibraries.md`](clibraries.md) for errors like `fatal error: stdlib.h: No such file or directory`
 * [`docker.sh`](docker.sh) for installation of Docker on Linux Mint 20.01 or Ubuntu 20.04 LTS
 * [`docker-compose.sh`](docker-compose.sh) for installation of Docker Compose.
+* [`gh.md`](gh.md) for installing the GitHub CLI
 * [`git.sh`](git.sh)
 * [`gitkraken.md`](gitkraken.md)
 * [`gitui.md`](gitui.md) for installing the [GitUI](https://github.com/extrawurst/gitui) tool
