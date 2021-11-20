@@ -35,6 +35,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 ## Programming
 
 * [`act.sh`](act.sh) for the Act tool to run GitHub Actions workflows locally
+* [`antlr4.sh`](antlr4.sh) for the ANTLR v4 parser generator (requires Java 1.7 or newer)
 * [`clibraries.md`](clibraries.md) for errors like `fatal error: stdlib.h: No such file or directory`
 * [`docker.sh`](docker.sh) for installation of Docker on Linux Mint 20.01 or Ubuntu 20.04 LTS
 * [`docker-compose.sh`](docker-compose.sh) for installation of Docker Compose.
