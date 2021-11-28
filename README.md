@@ -52,6 +52,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`ohmyposh.sh`](ohmyposh.sh) for installing the Oh My Posh command line prompt
 * [`poetry.sh`](poetry.sh) for installing Python Poetry
 * [`profobuf.md`](protobuf.md) for installing the various things related to Protocol Buffers
+* [`zig.md`](zig.md) for installing the Zig programming language toolchain
 * [`sourcetrail.md`](sourcetrail.md) for installing the SourceTrail codebase inspector
 * [`vscode.md`](vscode.md)
 
