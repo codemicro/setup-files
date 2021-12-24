@@ -42,6 +42,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`flutter.sh`](flutter.sh) for installing the Flutter app framework (doesn't touch Android Studio stuff, that needs doing manually)
 * [`gh.md`](gh.md) for installing the GitHub CLI
 * [`git.sh`](git.sh)
+* [`git-default-commit-message.md`](git-default-commit-message.md) for setting a default Git commit message
 * [`gitkraken.md`](gitkraken.md)
 * [`gitui.md`](gitui.md) for installing the [GitUI](https://github.com/extrawurst/gitui) tool
 * [`go.md`](go.md) for installing the Go programming language
