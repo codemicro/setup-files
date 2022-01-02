@@ -11,6 +11,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 ## Hardware
 
 * [`automount.md`](automount.md) for automatic mounting of drives
+* [`bluetooth-fixes.md`](bluetooth-fixes.md) for fixing issues relating to slow Bluetooth device reconnection
 * [`wireless.md`](wireless.md) for fixes related to wireless hardwa
 
 ## Misc.
