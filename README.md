@@ -22,6 +22,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`flameshot.md`](flameshot.md) for installing Flameshot screenshot tool
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
 * [`gpaste.md`](gpaste.md) for installing the GPaste clipboard manager
+* [`rclone.sh`](rclone.sh)
 * [`restic.sh`](restic.sh) for installing the Restic backup tool
 * [`rootcert.md`](rootcert.md) for installing other root certificates
 * [`signal.sh`](signal.sh) for installing the Signal desktop client
