@@ -22,6 +22,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`flameshot.md`](flameshot.md) for installing Flameshot screenshot tool
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
 * [`gpaste.md`](gpaste.md) for installing the GPaste clipboard manager
+* [`i3-move-monitor.md`](i3-move-monitor.md) for moving virtual monitor positions when using i3
 * [`rclone.sh`](rclone.sh)
 * [`restic.sh`](restic.sh) for installing the Restic backup tool
 * [`rootcert.md`](rootcert.md) for installing other root certificates
