@@ -29,6 +29,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`rootcert.md`](rootcert.md) for installing other root certificates
 * [`signal.sh`](signal.sh) for installing the Signal desktop client
 * [`wine.sh`](wine.sh) for Linux Mint 20.x/Ubuntu 20.04
+* [`yadm.sh`](yadm.sh) for the YADM dotfiles manager
 
 ## Performance
 
