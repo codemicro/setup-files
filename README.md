@@ -50,7 +50,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`git-default-commit-message.md`](git-default-commit-message.md) for setting a default Git commit message
 * [`gitkraken.md`](gitkraken.md)
 * [`gitui.md`](gitui.md) for installing the [GitUI](https://github.com/extrawurst/gitui) tool
-* [`go.md`](go.md) for installing the Go programming language
+* [`go.sh`](go.sh) for installing the Go programming language
 * [`gophernotes.sh`](gophernotes.sh) for the the GopherNotes Juypter kernel
 * [`jetbrainsToolbox.md`](jetbrainsToolbox.md) for installing the JetBrains Toolbox tool
 * [`nim.md`](nim.md) for installing the Nim programming language
