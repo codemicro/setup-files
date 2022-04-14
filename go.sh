@@ -30,7 +30,7 @@ FILENAME="$TEMP_DIR/$FILENAME"
 BASH_PROFILE="$HOME/.bashrc"
 
 # Remove old installation temp dirs
-if [ $(getStatusCode "stat $TEMP_DIR") == "0" ]; then
+if [ -e "$TEMP_DIR" ]; then
     rm -rf $TEMP_DIR
 fi
 mkdir -p $TEMP_DIR
@@ -39,7 +39,7 @@ wget --output-document=$FILENAME $DL_URL
 tar -C $TEMP_DIR -xzf $FILENAME
 
 # In the instance we're not installing fresh...
-if [ $(getStatusCode "stat /usr/local/go") == "0" ]; then
+if [ -e "/usr/local/go" ]; then
 	sudo rm -r /usr/local/go
 fi
 
