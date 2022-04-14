@@ -6,7 +6,7 @@
 
 function getStatusCode() {
 	set +e
-	$1 > /dev/null 2>&1
+	bash -c "$1" > /dev/null 2>&1
 	echo $?
 	set -e
 }
@@ -51,8 +51,10 @@ if [ $(getStatusCode "cat $BASH_PROFILE | grep /usr/local/go/bin") != "0" ]; the
     echo 'export PATH=$PATH:"/usr/local/go/bin"' >> $BASH_PROFILE
 fi
 
-if [ $(getStatusCode "cat $BASH_PROFILE | grep \$HOME/go/bin") != "0" ]; then
-    echo "Adding $HOME/go/bin to PATH"
+cmd="cat $BASH_PROFILE | grep "
+cmd=$cmd'\$HOME/go/bin'
+if [ $(getStatusCode "$cmd") != "0" ]; then
+    echo 'Adding $HOME/go/bin to PATH'
     echo 'export PATH=$PATH:"$HOME/go/bin"' >> $BASH_PROFILE
 fi
 
