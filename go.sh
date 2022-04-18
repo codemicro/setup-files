@@ -17,6 +17,8 @@ if [ "$1" == "" ]; then
     exit 1
 fi
 
+TEMP_DIR=$(mktemp --directory)
+
 set -ex
 
 VERSION=$1
@@ -24,7 +26,6 @@ VERSION=$1
 FILENAME="go$VERSION.linux-amd64.tar.gz"
 DL_URL="https://go.dev/dl/$FILENAME"
 
-TEMP_DIR="/tmp/goinstall"
 FILENAME="$TEMP_DIR/$FILENAME"
 
 BASH_PROFILE="$HOME/.bashrc"
