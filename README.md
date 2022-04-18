@@ -60,6 +60,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`profobuf.md`](protobuf.md) for installing the various things related to Protocol Buffers
 * [`zig.md`](zig.md) for installing the Zig programming language toolchain
 * [`sourcetrail.md`](sourcetrail.md) for installing the SourceTrail codebase inspector
+* [`vagrant.sh`](vagrant.sh) for the Vagrant VM manager
 * [`vscode.md`](vscode.md)
 
 ## Web
