@@ -23,6 +23,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
 * [`gpaste.md`](gpaste.md) for installing the GPaste clipboard manager
 * [`i3-move-monitor.md`](i3-move-monitor.md) for moving virtual monitor positions when using i3
+* [`ntfy-cli.sh`](ntfy-cli.sh) for installing the [Ntfy push notification server and CLI](https://ntfy.sh)
 * [`picom.sh`](picom.sh) for compiling and installing the Picom compositor
 * [`rclone.sh`](rclone.sh)
 * [`restic.sh`](restic.sh) for installing the Restic backup tool
