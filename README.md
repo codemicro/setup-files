@@ -21,6 +21,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`exa.md`](exa.md) for installing [`exa`](https://github.com/ogham/exa)
 * [`flameshot.md`](flameshot.md) for installing Flameshot screenshot tool
 * [`fuck.md`](fuck.md) for installing https://github.com/nvbn/thefuck
+* [`fzf.sh`](fzf.sh) for installing the `fzf` command line fuzzy finder (https://github.com/junegunn/fzf)
 * [`gpaste.md`](gpaste.md) for installing the GPaste clipboard manager
 * [`i3-move-monitor.md`](i3-move-monitor.md) for moving virtual monitor positions when using i3
 * [`ntfy-cli.sh`](ntfy-cli.sh) for installing the [Ntfy push notification server and CLI](https://ntfy.sh)
