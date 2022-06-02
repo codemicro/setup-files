@@ -12,7 +12,7 @@ function getStatusCode() {
 }
 
 if [ "$1" == "" ]; then
-    echo "Usage: ./go.sh [VERSION]"
+    echo "Usage: $0 [VERSION]"
     echo "Please specify a version."
     exit 1
 fi
