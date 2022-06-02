@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# - Assumes your fzf installation goes in ~/.local/bin and the config goes in ~/.config/fzf
+# - Assumes your fzf installation goes in ~/.local/bin
 # - Assumes you want the Linux amd64 build
 
 if [ "$1" == "" ]; then
@@ -39,4 +39,4 @@ mv $TEMP_DIR/fzf $HOME/.local/bin
 # Tidy up
 rm -r $TEMP_DIR
 
-echo -e 'You may need to install keybindings and autocompletion seperately.\nhttps://github.com/junegunn/fzf'
+echo -e '!! WARNING !! You may need to install keybindings and autocompletion seperately.\nhttps://github.com/junegunn/fzf'
