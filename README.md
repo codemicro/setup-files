@@ -57,7 +57,7 @@ Markdown docs and shell scripts for automating installation of things and docume
 * [`gophernotes.sh`](gophernotes.sh) for the the GopherNotes Juypter kernel
 * [`jetbrainsToolbox.md`](jetbrainsToolbox.md) for installing the JetBrains Toolbox tool
 * [`nim.md`](nim.md) for installing the Nim programming language
-* [`node.md`](node.md) for installing Node.JS
+* [`node.sh`](node.sh) for installing Node.JS
 * [`ohmyposh.sh`](ohmyposh.sh) for installing the Oh My Posh command line prompt
 * [`poetry.sh`](poetry.sh) for installing Python Poetry
 * [`profobuf.md`](protobuf.md) for installing the various things related to Protocol Buffers
