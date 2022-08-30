@@ -24,9 +24,10 @@ set -ex
 VERSION=$1
 
 INSTALL_DIR="/opt/node"
+ARCH="x64"
 
 # eg: https://nodejs.org/dist/v16.16.0/node-v16.16.0-linux-x64.tar.xz
-FILENAME="node-v$VERSION-linux-x64.tar.xz"
+FILENAME="node-v$VERSION-linux-$ARCH.tar.xz"
 DL_URL="https://nodejs.org/dist/v$VERSION/$FILENAME"
 
 FILENAME="$TEMP_DIR/$FILENAME"
@@ -47,7 +48,7 @@ if [ -e $INSTALL_DIR ]; then
 	sudo rm -r $INSTALL_DIR
 fi
 
-sudo mv $TEMP_DIR/node-v16.16.0-linux-x64 $INSTALL_DIR
+sudo mv $TEMP_DIR/node-v$VERSION-linux-$ARCH $INSTALL_DIR
 
 # Check Bash profile to see if we've got env vars set yet
 if [ $(getStatusCode "cat $BASH_PROFILE | grep /opt/node/bin") != "0" ]; then
